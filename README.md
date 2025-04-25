@@ -1,3 +1,5 @@
+[![de](https://img.shields.io/badge/lang-de-yellow.svg)](https://github.com/fjrodriguez/herramientas-digitales/blob/main/README.de.md)
+
 # Herramientas digitales para la enseñanza
 ## Aplicaciones y herramientas para la educación digital
 ¡Qué bueno que hayas encontrado el camino hasta aquí! Aquí encontrarás una colección de herramientas digitales para hacerte más fácil la vida educativa.
