@@ -1,25 +1,25 @@
-# Digitale Tools für den Unterricht
-## Apps & Werkzeuge für digitale Bildung
-Cool, dass du den Weg hierher gefunden hast! Hier findest du eine Sammlung digitaler Tools, um dein Leben in der Bildung zu erleichtern.
+# Herramientas digitales para la enseñanza
+## Aplicaciones y herramientas para la educación digital
+¡Qué bueno que hayas encontrado el camino hasta aquí! Aquí encontrarás una colección de herramientas digitales para hacerte más fácil la vida educativa.
 
-Die Liste wird (durch deine Hilfe) ständig erweitert und angepasst, also lohnt sich der Blick auch ein weiteres Mal.
+La lista se amplía y actualiza constantemente (con tu ayuda), por lo que vale la pena echarle otro vistazo.
 
-Solltest du selbst weitere digitale Tools kennen, dir digitale Tools zu einer neuen Kategorie wünschen oder allgemein Feedback und Verbesserungsvorschläge haben, schicke mir doch gern kurz eine Mail an [diese Adresse](mailto:deborah.koeltzsch@gmail.com).
+Si conoce otras herramientas digitales, le gustaría tener herramientas digitales para una nueva categoría o tiene comentarios generales y sugerencias para mejorar, envíeme un correo electrónico a [esta dirección](mailto:deborah.koeltzsch@gmail.com).
 
-Denn auch im Unterricht gilt: **If you want to go fast, go alone. If you want to go far, go together.**
+Porque también en clase se aplica lo siguiente: **Si quieres ir rápido, ve solo. Si quieres llegar lejos, ve acompañado.**
 
-### Inhaltsverzeichnis der Kategorien
-Klicke auf eine Kategorie, um direkt dorthin zu gelangen.
+### Tabla de Contenidos de Categorías
+Haga clic en una categoría para ir directamente a ella.
 
-Suchst du etwas Bestimmtes? Dann verwende am besten die **Tastenkombination strg+f / cmd+f** und suche ganz gezielt.
+¿Buscas algo específico? Entonces lo mejor es usar la **combinación de teclas ctrl+f / cmd+f** y buscar específicamente.
 
-[Arbeitsblätter erstellen](#arbeitsblaetter-erstellen)
+[Crear hojas de trabajo](#arbeitsblaetter-erstellen)
 
-[Aufgabentools](#aufgabentools)
+[Herramientas de tareas](#aufgabentools)
 
-[Audio & Audioaufnahme](#audio-&-audioaufnahme)
+[Audio y grabación de audio](#audio-&-audioaufnahme)
 
-[Bildbearbeitung](#bildbearbeitung)
+[Edición de imágenes](#bildbearbeitung)
 
 [Chat](#chat)
 
@@ -29,11 +29,11 @@ Suchst du etwas Bestimmtes? Dann verwende am besten die **Tastenkombination strg
 
 [Comics](#comics)
 
-[Digitales Klassenzimmer](#digitales-klassenzimmer)
+[Aula digital](#digitales-klassenzimmer)
 
-[Erstellen von Infografiken und Lernvideos o.Ä.](#erstellen-von-infographiken-und-lernvideos-o.ae.)
+[Creación de infografías y vídeos de aprendizaje, etc.](#erstellen-von-infographiken-und-lernvideos-o.ae.)
 
-[Feedback & Umfragen](#feedback-&-umfragen)
+[Comentarios y encuestas](#feedback-&-umfragen)
 
 [Fortbildungen](#fortbildungen)
 
