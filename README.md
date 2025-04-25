@@ -1,4 +1,4 @@
-[![de](https://img.shields.io/badge/lang-de-yellow.svg)](https://github.com/fjrodriguez/herramientas-digitales/blob/main/README.de.md)
+[![de](https://img.shields.io/badge/lang-de-red.svg)](https://github.com/fjrodriguez/herramientas-digitales/blob/main/README.de.md)
 
 # Herramientas digitales para la enseñanza
 ## Aplicaciones y herramientas para la educación digital
